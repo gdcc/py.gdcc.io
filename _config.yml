@@ -1,0 +1,6 @@
+locale: "en-US"
+title: "pyDataverse Working Group"
+description: "The pyDataverse working group seeks to re-establish and extend pyDataverse to an invaluable tool for Datanauts exploring the vast depths of the Dataverse."
+github: [metadata]
+plugins:
+    - jekyll-seo-tag
