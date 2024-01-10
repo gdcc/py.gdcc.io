@@ -1,6 +1,6 @@
-# ct.gdcc.io
+# py.gdcc.io
 
-The source for https://ct.gdcc.io, the website for the Containerization Working Group.
+The source for https://py.gdcc.io, the website for the pyDataverse Working Group.
 
 ## Contributing
 
