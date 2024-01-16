@@ -9,7 +9,7 @@ title: Home
 To address these concerns, the [pyDataverse](https://github.com/gdcc/pyDataverse) Re-Vamp working group was launched in late 2023. The working group aims to update the library to a functional state, resolve any issues that hinder functionality, and merge contributions that have gone stale. In addition, the group plans to incorporate concepts from other client libraries like [EasyDataverse](https://github.com/gdcc/easyDataverse/tree/flexible-connect/) and [DVCLI](https://github.com/gdcc/dvcli) into [pyDataverse](https://github.com/gdcc/pyDataverse) to enhance its usability and focus on a single Python library. This initiative also envisions including new libraries and concepts that enable large language models to interact with Dataverse, such as populating metadata from text. Lastly, to address maintenance gaps in open-source projects, the Re-Vamp initiative proposes a dynamic approach incorporating upstream changes to the native API by utilizing [OpenAPI specifications](https://www.openapis.org) and code generation. Ultimately, the Re-Vamp seeks to re-establish [pyDataverse](https://github.com/gdcc/pyDataverse) as an invaluable tool for Datanauts exploring the vast depths of the Dataverse.
 
 <p align="center">
-  <img src="imgs/pyDataverse.png" alt="pyDataverse logo" width="600"/>
+  <img src="/imgs/overview.png" alt="overview" width="600"/>
 </p>
 
 ## New features, bug fixes, and use cases 💎
