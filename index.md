@@ -55,7 +55,7 @@ We welcome anyone to join our meetings! We meet on Wednesdays at 3:00PM UTC.
 
 The WebEx link is <https://unistuttgart.webex.com/unistuttgart/j.php?MTID=m322473ae7c744792437ce854422e52a3>
 
-- [2024-01-04, 09:30 UTC](https://time.is/compare/1500_17_Jan_2024_in_UTC) - [Notes](https://docs.google.com/document/d/1F6605qYajVfbgrVKNzSDNHjSsIAbMRhfC9STRfD-Z1Y/edit?usp=sharing)
+- [2024-01-17, 15:00 UTC](https://time.is/compare/1500_17_Jan_2024_in_UTC) - [Notes](https://docs.google.com/document/d/1F6605qYajVfbgrVKNzSDNHjSsIAbMRhfC9STRfD-Z1Y/edit?usp=sharing)
 
 ## Get in touch
 
