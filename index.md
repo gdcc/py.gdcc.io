@@ -18,6 +18,7 @@ To address these concerns, the [pyDataverse](https://github.com/gdcc/pyDataverse
 - 12/02/23: Add CI/CD pipeline and re-establish existing tests [#167](https://github.com/gdcc/pyDataverse/pull/167) by *Jan Range*
 - 12/28/23: Provide local testing functionality [#172](https://github.com/gdcc/pyDataverse/pull/172#issue-2058835054) by *Jan Range*
 - 01/31/24: OpenAPI code generation and comparison. [Repository](https://github.com/JR-1991/pyDataverse-generation-analysis)
+- 02/08/24: Requests via HTTPX. [#174](https://github.com/gdcc/pyDataverse/pull/174#issue-2125828298)
 
 ## Roadmap 🗺️
 
@@ -33,7 +34,7 @@ We have set up a [proposal](https://docs.google.com/document/d/15cd_I2caOX5ekJrG
 
 ### Phase 2: Issues and PRs
 
-- [ ] POST request header fix → Breaks current version
+- [x] POST request header fix → Breaks current version
 - [ ] Work through other issues and PRs
 
 ### Phase 3: Merging/integrating other Python libraries
@@ -58,7 +59,8 @@ The WebEx link is <https://unistuttgart.webex.com/unistuttgart/j.php?MTID=m32247
 
 - [2024-01-17, 15:00 UTC](https://time.is/compare/1500_17_Jan_2024_in_UTC) - [Notes](https://docs.google.com/document/d/1F6605qYajVfbgrVKNzSDNHjSsIAbMRhfC9STRfD-Z1Y/edit?usp=sharing)
 - [2024-01-31, 15:00 UTC](https://time.is/compare/1500_31_Jan_2024_in_UTC) - [Notes](https://docs.google.com/document/d/18nwRey-OhBxheFFIrOPD_nSCrlyH0q31dujLQ0hVZQM/edit?usp=sharing) [Recording](https://drive.google.com/file/d/1P2YumJua5-oQk3CqWTPFz56UFe2TVexD/view?usp=share_link)
-- [2024-02-14, 15:00 UTC](https://time.is/compare/1500_14_Feb_2024_in_UTC) - [Notes](https://docs.google.com/document/d/1FH77wrCgh7FqB6uTsap_Thll0JBf5O3_cjK9wcGU-3g/edit?usp=share_link)
+- [2024-02-14, 15:00 UTC](https://time.is/compare/1500_14_Feb_2024_in_UTC) - [Notes](https://docs.google.com/document/d/1FH77wrCgh7FqB6uTsap_Thll0JBf5O3_cjK9wcGU-3g/edit?usp=share_link) [Recording](https://drive.google.com/file/d/1OsjG03qZD2wCew1QOc4dxYv2ShbCslSV/view?usp=share_link)
+- [2024-03-07, 14:00 UTC](https://time.is/compare/1400_7_Mar_2024_in_UTC) - [Notes](https://docs.google.com/document/d/13mPiXJlx8UoN-C2IV8ciIS0dxF2ZIo2HI8K_We8mdME/edit?usp=share_link)
 
 ## Get in touch
 
