@@ -19,6 +19,7 @@ To address these concerns, the [pyDataverse](https://github.com/gdcc/pyDataverse
 - 12/28/23: Provide local testing functionality [#172](https://github.com/gdcc/pyDataverse/pull/172#issue-2058835054) by *Jan Range*
 - 01/31/24: OpenAPI code generation and comparison. [Repository](https://github.com/JR-1991/pyDataverse-generation-analysis)
 - 02/08/24: Requests via HTTPX. [#174](https://github.com/gdcc/pyDataverse/pull/174#issue-2125828298)
+- 03/03/24: Asynchronous requests. [#175](https://github.com/gdcc/pyDataverse/pull/175)
 
 ## Roadmap 🗺️
 
