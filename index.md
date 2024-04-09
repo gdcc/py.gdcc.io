@@ -14,9 +14,9 @@ To address these concerns, the [pyDataverse](https://github.com/gdcc/pyDataverse
 
 ## New features, bug fixes, and use cases 💎
 
-- 11/30/23: Admin interface [#166](https://github.com/gdcc/pyDataverse/pull/166) by *Brian Brock*
-- 12/02/23: Add CI/CD pipeline and re-establish existing tests [#167](https://github.com/gdcc/pyDataverse/pull/167) by *Jan Range*
-- 12/28/23: Provide local testing functionality [#172](https://github.com/gdcc/pyDataverse/pull/172#issue-2058835054) by *Jan Range*
+- 11/30/23: Admin interface [#166](https://github.com/gdcc/pyDataverse/pull/166) by _Brian Brock_
+- 12/02/23: Add CI/CD pipeline and re-establish existing tests [#167](https://github.com/gdcc/pyDataverse/pull/167) by _Jan Range_
+- 12/28/23: Provide local testing functionality [#172](https://github.com/gdcc/pyDataverse/pull/172#issue-2058835054) by _Jan Range_
 - 01/31/24: OpenAPI code generation and comparison. [Repository](https://github.com/JR-1991/pyDataverse-generation-analysis)
 - 02/08/24: Requests via HTTPX. [#174](https://github.com/gdcc/pyDataverse/pull/174#issue-2125828298)
 - 03/03/24: Asynchronous requests. [#175](https://github.com/gdcc/pyDataverse/pull/175)
@@ -64,8 +64,8 @@ The WebEx link is <https://unistuttgart.webex.com/unistuttgart/j.php?MTID=m32247
 - [2024-03-07, 14:00 UTC](https://time.is/compare/1400_7_Mar_2024_in_UTC) (DCM '24 hybrid) - [Notes](https://docs.google.com/document/d/13mPiXJlx8UoN-C2IV8ciIS0dxF2ZIo2HI8K_We8mdME/edit?usp=share_link)
 - [2024-03-13, 15:00 UTC](https://time.is/compare/1500_13_Mar_2024_in_UTC) - [Notes](https://docs.google.com/document/d/19cGiPV3QFlwGXLOKUUzxbyai59yIlSoFV0GOv_Tc2XE/edit?usp=sharing) [Recording](https://drive.google.com/file/d/1kF5wV_w1Li7rgVXAaUpr5XOJiqgsYqTF/view?usp=share_link)
 - [2024-03-27, 14:00 UTC](https://time.is/compare/1400_27_Mar_2024_in_UTC) - [Notes](https://docs.google.com/document/d/1zY_BOVwSzlIQ2bHI3cyjWO7R5lKSbN7Svqaj9F92Jf8/edit?usp=sharing) [Recording](https://drive.google.com/file/d/1BdaTgmhcqnfB4mReD5Ab4BViYYOC55Pu/view?usp=share_link)
-- [2024-04-10, 14:00 UTC](https://time.is/compare/1400_10_Apr_2024_in_UTC) - [Notes](https://docs.google.com/document/d/1zn6GIgbOxZZiVyP6sJ8hEa0zDTZq9RRhqckKUEx3fsA/edit?usp=sharing)
-
+- ~~[2024-04-10, 14:00 UTC](https://time.is/compare/1400_10_Apr_2024_in_UTC) - Cancelled~~
+- [2024-04-24, 14:00 UTC](https://time.is/compare/1400_24_Apr_2024_in_UTC) - [Notes](https://docs.google.com/document/d/1zn6GIgbOxZZiVyP6sJ8hEa0zDTZq9RRhqckKUEx3fsA/edit?usp=sharing)
 
 ## Get in touch
 
