@@ -20,6 +20,7 @@ To address these concerns, the [pyDataverse](https://github.com/gdcc/pyDataverse
 - 01/31/24: OpenAPI code generation and comparison. [Repository](https://github.com/JR-1991/pyDataverse-generation-analysis)
 - 02/08/24: Requests via HTTPX. [#174](https://github.com/gdcc/pyDataverse/pull/174#issue-2125828298)
 - 03/03/24: Asynchronous requests. [#175](https://github.com/gdcc/pyDataverse/pull/175)
+- 11/04/24: Switch to `pyproject.toml` and `poetry` [#180](https://github.com/gdcc/pyDataverse/pull/180)
 
 ## Roadmap 🗺️
 
@@ -29,9 +30,9 @@ We have set up a [proposal](https://docs.google.com/document/d/15cd_I2caOX5ekJrG
 
 - [x] Finalize first version of Dataverse Action
 - [x] Unit and integration tests workflow
-- [ ] Switch to Poetry
-- [ ] Publishing (PyPI) workflow
-- [ ] Publish to TestPyPI on merge to develop
+- [x] Switch to Poetry
+- [x] Publishing (PyPI) workflow
+- [x] Publish to TestPyPI on merge to develop
 
 ### Phase 2: Issues and PRs
 
@@ -47,7 +48,7 @@ We have set up a [proposal](https://docs.google.com/document/d/15cd_I2caOX5ekJrG
 
 ### Phase 4: Core generation based on Swagger/OpenAPI
 
-- [ ] Conceptualization and planning
+- [x] Conceptualization and planning
 - [ ] Implementation of core generation based on Swagger/OpenAPI
 
 As we merge pull requests, we will update "new features" list above.
