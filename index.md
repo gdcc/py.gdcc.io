@@ -17,10 +17,10 @@ To address these concerns, the [pyDataverse](https://github.com/gdcc/pyDataverse
 - 11/30/23: Admin interface [#166](https://github.com/gdcc/pyDataverse/pull/166) by _Brian Brock_
 - 12/02/23: Add CI/CD pipeline and re-establish existing tests [#167](https://github.com/gdcc/pyDataverse/pull/167) by _Jan Range_
 - 12/28/23: Provide local testing functionality [#172](https://github.com/gdcc/pyDataverse/pull/172#issue-2058835054) by _Jan Range_
-- 01/31/24: OpenAPI code generation and comparison. [Repository](https://github.com/JR-1991/pyDataverse-generation-analysis)
-- 02/08/24: Requests via HTTPX. [#174](https://github.com/gdcc/pyDataverse/pull/174#issue-2125828298)
-- 03/03/24: Asynchronous requests. [#175](https://github.com/gdcc/pyDataverse/pull/175)
-- 11/04/24: Switch to `pyproject.toml` and `poetry` [#180](https://github.com/gdcc/pyDataverse/pull/180)
+- 01/31/24: OpenAPI code generation and comparison. [Repository](https://github.com/JR-1991/pyDataverse-generation-analysis) by _Jan Range_
+- 02/08/24: Requests via HTTPX. by _Jan Range_ [#174](https://github.com/gdcc/pyDataverse/pull/174#issue-2125828298)
+- 03/03/24: Asynchronous requests. [#175](https://github.com/gdcc/pyDataverse/pull/175) by _Jan Range_
+- 11/04/24: Switch to `pyproject.toml` and `poetry` [#180](https://github.com/gdcc/pyDataverse/pull/180) by _Jan Range_
 
 ## Roadmap 🗺️
 
