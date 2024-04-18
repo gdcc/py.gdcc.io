@@ -20,9 +20,9 @@ To address these concerns, the [pyDataverse](https://github.com/gdcc/pyDataverse
 - 01/31/24: OpenAPI code generation and comparison. [Repository](https://github.com/JR-1991/pyDataverse-generation-analysis) by _Jan Range_
 - 02/08/24: Requests via HTTPX. by _Jan Range_ [#174](https://github.com/gdcc/pyDataverse/pull/174#issue-2125828298)
 - 03/03/24: Asynchronous requests. [#175](https://github.com/gdcc/pyDataverse/pull/175) by _Jan Range_
-- 11/04/24: Switch to `pyproject.toml` and `poetry` [#180](https://github.com/gdcc/pyDataverse/pull/180) by _Jan Range_
-- 11/04/24: _Draft_ - Migrate documentation to `mkdocs-material` [#181](https://github.com/gdcc/pyDataverse/pull/181) by _Jan Range_
-- 18/04/24: Fix data access and redirects [#182](https://github.com/gdcc/pyDataverse/pull/182) by _Jan Range_
+- 04/11/24: Switch to `pyproject.toml` and `poetry` [#180](https://github.com/gdcc/pyDataverse/pull/180) by _Jan Range_
+- 04/11/24: _Draft_ - Migrate documentation to `mkdocs-material` [#181](https://github.com/gdcc/pyDataverse/pull/181) by _Jan Range_
+- 04/18/24: Fix data access and redirects [#182](https://github.com/gdcc/pyDataverse/pull/182) by _Jan Range_
 
 ## Roadmap 🗺️
 
