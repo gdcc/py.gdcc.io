@@ -22,6 +22,7 @@ To address these concerns, the [pyDataverse](https://github.com/gdcc/pyDataverse
 - 03/03/24: Asynchronous requests. [#175](https://github.com/gdcc/pyDataverse/pull/175) by _Jan Range_
 - 11/04/24: Switch to `pyproject.toml` and `poetry` [#180](https://github.com/gdcc/pyDataverse/pull/180) by _Jan Range_
 - 11/04/24: _Draft_ - Migrate documentation to `mkdocs-material` [#181](https://github.com/gdcc/pyDataverse/pull/181) by _Jan Range_
+- 18/04/24: Fix data access and redirects [#182](https://github.com/gdcc/pyDataverse/pull/182) by _Jan Range_
 
 ## Roadmap 🗺️
 
