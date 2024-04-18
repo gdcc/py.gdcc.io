@@ -55,6 +55,15 @@ We have set up a [proposal](https://docs.google.com/document/d/15cd_I2caOX5ekJrG
 
 As we merge pull requests, we will update "new features" list above.
 
+### Milestones
+
+We curate our work in the form of milestones for each new version to document new functionalities and fixes that have been contributed. In the following, find a list to our current milestones:
+
+- [v0.3.2](https://github.com/gdcc/pyDataverse/milestone/7)
+- [v0.4.0](https://github.com/gdcc/pyDataverse/milestone/8)
+
+*You can check already closed PRs and issues by clicking on the `closed` tab.*
+
 ## Working group meetings
 
 We welcome anyone to join our meetings! We meet on Wednesdays at 2:00PM UTC.
