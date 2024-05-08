@@ -70,16 +70,16 @@ We welcome anyone to join our meetings! We meet on Wednesdays at 2:00PM UTC.
 
 The WebEx link is <https://unistuttgart.webex.com/unistuttgart/j.php?MTID=m322473ae7c744792437ce854422e52a3>
 
-- [2024-01-17, 15:00 UTC](https://time.is/compare/1500_17_Jan_2024_in_UTC) - [Notes](https://docs.google.com/document/d/1F6605qYajVfbgrVKNzSDNHjSsIAbMRhfC9STRfD-Z1Y/edit?usp=sharing)
-- [2024-01-31, 15:00 UTC](https://time.is/compare/1500_31_Jan_2024_in_UTC) - [Notes](https://docs.google.com/document/d/18nwRey-OhBxheFFIrOPD_nSCrlyH0q31dujLQ0hVZQM/edit?usp=sharing) [Recording](https://drive.google.com/file/d/1P2YumJua5-oQk3CqWTPFz56UFe2TVexD/view?usp=share_link)
-- [2024-02-14, 15:00 UTC](https://time.is/compare/1500_14_Feb_2024_in_UTC) - [Notes](https://docs.google.com/document/d/1FH77wrCgh7FqB6uTsap_Thll0JBf5O3_cjK9wcGU-3g/edit?usp=share_link) [Recording](https://drive.google.com/file/d/1OsjG03qZD2wCew1QOc4dxYv2ShbCslSV/view?usp=share_link)
-- [2024-03-07, 14:00 UTC](https://time.is/compare/1400_7_Mar_2024_in_UTC) (DCM '24 hybrid) - [Notes](https://docs.google.com/document/d/13mPiXJlx8UoN-C2IV8ciIS0dxF2ZIo2HI8K_We8mdME/edit?usp=share_link)
-- [2024-03-13, 15:00 UTC](https://time.is/compare/1500_13_Mar_2024_in_UTC) - [Notes](https://docs.google.com/document/d/19cGiPV3QFlwGXLOKUUzxbyai59yIlSoFV0GOv_Tc2XE/edit?usp=sharing) [Recording](https://drive.google.com/file/d/1kF5wV_w1Li7rgVXAaUpr5XOJiqgsYqTF/view?usp=share_link)
-- [2024-03-27, 14:00 UTC](https://time.is/compare/1400_27_Mar_2024_in_UTC) - [Notes](https://docs.google.com/document/d/1zY_BOVwSzlIQ2bHI3cyjWO7R5lKSbN7Svqaj9F92Jf8/edit?usp=sharing) [Recording](https://drive.google.com/file/d/1BdaTgmhcqnfB4mReD5Ab4BViYYOC55Pu/view?usp=share_link)
-- ~~[2024-04-10, 14:00 UTC](https://time.is/compare/1400_10_Apr_2024_in_UTC) - Cancelled~~
-- [2024-04-24, 14:00 UTC](https://time.is/compare/1400_24_Apr_2024_in_UTC) - [Notes](https://docs.google.com/document/d/1zn6GIgbOxZZiVyP6sJ8hEa0zDTZq9RRhqckKUEx3fsA/edit?usp=sharing) [Recording](https://drive.google.com/file/d/1nQoAoYjWVnfIS2FOlq-GPBqyHxvl2fWT/view?usp=share_link)
-- ~~[2024-05-08, 14:00 UTC](https://time.is/compare/1400_08_May_2024_in_UTC) - Cancelled~~
 - [2024-05-22, 14:00 UTC](https://time.is/compare/1400_22_May_2024_in_UTC) - [Notes](https://docs.google.com/document/d/1EcArEHnyMAvbaiamWSlVhrZJdtqVPr6HmMSVkAx4vwA/edit?usp=sharing)
+- ~~[2024-05-08, 14:00 UTC](https://time.is/compare/1400_08_May_2024_in_UTC) - Cancelled~~
+- [2024-04-24, 14:00 UTC](https://time.is/compare/1400_24_Apr_2024_in_UTC) - [Notes](https://docs.google.com/document/d/1zn6GIgbOxZZiVyP6sJ8hEa0zDTZq9RRhqckKUEx3fsA/edit?usp=sharing) [Recording](https://drive.google.com/file/d/1nQoAoYjWVnfIS2FOlq-GPBqyHxvl2fWT/view?usp=share_link)
+- ~~[2024-04-10, 14:00 UTC](https://time.is/compare/1400_10_Apr_2024_in_UTC) - Cancelled~~
+- [2024-03-27, 14:00 UTC](https://time.is/compare/1400_27_Mar_2024_in_UTC) - [Notes](https://docs.google.com/document/d/1zY_BOVwSzlIQ2bHI3cyjWO7R5lKSbN7Svqaj9F92Jf8/edit?usp=sharing) [Recording](https://drive.google.com/file/d/1BdaTgmhcqnfB4mReD5Ab4BViYYOC55Pu/view?usp=share_link)
+- [2024-03-13, 15:00 UTC](https://time.is/compare/1500_13_Mar_2024_in_UTC) - [Notes](https://docs.google.com/document/d/19cGiPV3QFlwGXLOKUUzxbyai59yIlSoFV0GOv_Tc2XE/edit?usp=sharing) [Recording](https://drive.google.com/file/d/1kF5wV_w1Li7rgVXAaUpr5XOJiqgsYqTF/view?usp=share_link)
+- [2024-03-07, 14:00 UTC](https://time.is/compare/1400_7_Mar_2024_in_UTC) (DCM '24 hybrid) - [Notes](https://docs.google.com/document/d/13mPiXJlx8UoN-C2IV8ciIS0dxF2ZIo2HI8K_We8mdME/edit?usp=share_link)
+- [2024-02-14, 15:00 UTC](https://time.is/compare/1500_14_Feb_2024_in_UTC) - [Notes](https://docs.google.com/document/d/1FH77wrCgh7FqB6uTsap_Thll0JBf5O3_cjK9wcGU-3g/edit?usp=share_link) [Recording](https://drive.google.com/file/d/1OsjG03qZD2wCew1QOc4dxYv2ShbCslSV/view?usp=share_link)
+- [2024-01-31, 15:00 UTC](https://time.is/compare/1500_31_Jan_2024_in_UTC) - [Notes](https://docs.google.com/document/d/18nwRey-OhBxheFFIrOPD_nSCrlyH0q31dujLQ0hVZQM/edit?usp=sharing) [Recording](https://drive.google.com/file/d/1P2YumJua5-oQk3CqWTPFz56UFe2TVexD/view?usp=share_link)
+- [2024-01-17, 15:00 UTC](https://time.is/compare/1500_17_Jan_2024_in_UTC) - [Notes](https://docs.google.com/document/d/1F6605qYajVfbgrVKNzSDNHjSsIAbMRhfC9STRfD-Z1Y/edit?usp=sharing)
 
 ## Get in touch
 
