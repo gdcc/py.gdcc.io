@@ -79,7 +79,7 @@ The WebEx link is <https://unistuttgart.webex.com/unistuttgart/j.php?MTID=m32247
 - ~~[2024-04-10, 14:00 UTC](https://time.is/compare/1400_10_Apr_2024_in_UTC) - Cancelled~~
 - [2024-04-24, 14:00 UTC](https://time.is/compare/1400_24_Apr_2024_in_UTC) - [Notes](https://docs.google.com/document/d/1zn6GIgbOxZZiVyP6sJ8hEa0zDTZq9RRhqckKUEx3fsA/edit?usp=sharing) [Recording](https://drive.google.com/file/d/1nQoAoYjWVnfIS2FOlq-GPBqyHxvl2fWT/view?usp=share_link)
 - ~~[2024-05-08, 14:00 UTC](https://time.is/compare/1400_08_May_2024_in_UTC) - Cancelled~~
-- [2024-05-22, 14:00 UTC](https://time.is/compare/1400_22_May_2024_in_UTC) - [Notes](https://docs.google.com/document/d/1EcArEHnyMAvbaiamWSlVhrZJdtqVPr6HmMSVkAx4vwA/edit?usp=sharing)
+- [2024-05-22, 14:00 UTC](https://time.is/compare/1400_22_May_2024_in_UTC) - [Notes](https://docs.google.com/document/d/1ve1i5XFCB7oG3wDOcHoQlKogbcRhFVOMIgdoTQn45Hg/edit?usp=sharing)
 
 ## Get in touch
 
