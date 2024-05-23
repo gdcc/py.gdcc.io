@@ -39,7 +39,7 @@ We have set up a [proposal](https://docs.google.com/document/d/15cd_I2caOX5ekJrG
 ### Phase 2: Issues and PRs
 
 - [x] POST request header fix → Breaks current version
-- [ ] Work through other issues and PRs
+- [x] Work through other issues and PRs
 
 ### Phase 3: Merging/integrating other Python libraries
 
@@ -70,7 +70,8 @@ We welcome anyone to join our meetings! We meet on Wednesdays at 2:00PM UTC.
 
 The WebEx link is <https://unistuttgart.webex.com/unistuttgart/j.php?MTID=m322473ae7c744792437ce854422e52a3>
 
-- [2024-05-22, 14:00 UTC](https://time.is/compare/1400_22_May_2024_in_UTC) - [Notes](https://docs.google.com/document/d/1ve1i5XFCB7oG3wDOcHoQlKogbcRhFVOMIgdoTQn45Hg/edit?usp=sharing)
+- [2024-06-05, 14:00 UTC](https://time.is/compare/1400_05_June_2024_in_UTC) - [Notes](https://docs.google.com/document/d/1g8Y-9SnqCWIsUgHHj0v2yaniVQl6gfS7QZwE7dCved4/edit?usp=sharing)
+- [2024-05-22, 14:00 UTC](https://time.is/compare/1400_22_May_2024_in_UTC) - [Notes](https://docs.google.com/document/d/1ve1i5XFCB7oG3wDOcHoQlKogbcRhFVOMIgdoTQn45Hg/edit?usp=sharing) [Recording](https://drive.google.com/file/d/1-a_Vk7QBGmVg0YqQJ7vd1XCoHWC-wQUc/view?usp=share_link)
 - ~~[2024-05-08, 14:00 UTC](https://time.is/compare/1400_08_May_2024_in_UTC) - Cancelled~~
 - [2024-04-24, 14:00 UTC](https://time.is/compare/1400_24_Apr_2024_in_UTC) - [Notes](https://docs.google.com/document/d/1zn6GIgbOxZZiVyP6sJ8hEa0zDTZq9RRhqckKUEx3fsA/edit?usp=sharing) [Recording](https://drive.google.com/file/d/1nQoAoYjWVnfIS2FOlq-GPBqyHxvl2fWT/view?usp=share_link)
 - ~~[2024-04-10, 14:00 UTC](https://time.is/compare/1400_10_Apr_2024_in_UTC) - Cancelled~~
