@@ -62,7 +62,7 @@ We curate our work in the form of milestones for each new version to document ne
 - [v0.3.2](https://github.com/gdcc/pyDataverse/milestone/7)
 - [v0.4.0](https://github.com/gdcc/pyDataverse/milestone/8)
 
-*You can check already closed PRs and issues by clicking on the `closed` tab.*
+_You can check already closed PRs and issues by clicking on the `closed` tab._
 
 ## Working group meetings
 
@@ -70,7 +70,7 @@ We welcome anyone to join our meetings! We meet on Wednesdays at 2:00PM UTC.
 
 The WebEx link is <https://unistuttgart.webex.com/unistuttgart/j.php?MTID=m322473ae7c744792437ce854422e52a3>
 
-- [2024-06-19, 14:00 UTC](https://time.is/compare/1400_19_June_2024_in_UTC) - [Notes](https://docs.google.com/document/d/1O2DzuDRPUSq9-LYAaQ5eVRNW4ajwwTbX271ntztVW-Q/edit?usp=sharing)
+- [2024-07-03, 14:00 UTC](https://time.is/compare/1400_03_July_2024_in_UTC) - [Notes](https://docs.google.com/document/d/1O2DzuDRPUSq9-LYAaQ5eVRNW4ajwwTbX271ntztVW-Q/edit?usp=sharing)
 - [2024-06-05, 14:00 UTC](https://time.is/compare/1400_05_June_2024_in_UTC) - [Notes](https://docs.google.com/document/d/1g8Y-9SnqCWIsUgHHj0v2yaniVQl6gfS7QZwE7dCved4/edit?usp=sharing) [Recording](https://drive.google.com/file/d/10GcA491snVXyufIUbK-qHNDcHDcccQgB/view?usp=share_link)
 - [2024-05-22, 14:00 UTC](https://time.is/compare/1400_22_May_2024_in_UTC) - [Notes](https://docs.google.com/document/d/1ve1i5XFCB7oG3wDOcHoQlKogbcRhFVOMIgdoTQn45Hg/edit?usp=sharing) [Recording](https://drive.google.com/file/d/1-a_Vk7QBGmVg0YqQJ7vd1XCoHWC-wQUc/view?usp=share_link)
 - ~~[2024-05-08, 14:00 UTC](https://time.is/compare/1400_08_May_2024_in_UTC) - Cancelled~~
