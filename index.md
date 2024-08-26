@@ -23,6 +23,15 @@ To address these concerns, the [pyDataverse](https://github.com/gdcc/pyDataverse
 - 04/11/24: Switch to `pyproject.toml` and `poetry` [#180](https://github.com/gdcc/pyDataverse/pull/180) by _Jan Range_
 - 04/11/24: _Draft_ - Migrate documentation to `mkdocs-material` [#181](https://github.com/gdcc/pyDataverse/pull/181) by _Jan Range_
 - 04/18/24: Fix data access and redirects [#182](https://github.com/gdcc/pyDataverse/pull/182) by _Jan Range_
+- 08/26/24: Run `pre-commit run --all` [#196](https://github.com/gdcc/pyDataverse/pull/196) by _Sebastian Höffner_
+- 08/26/24: Update `DV_VERSION` to 6.3 [#197](https://github.com/gdcc/pyDataverse/pull/197) by _Sebastian Höffner_
+- 08/26/24: Update Docs Occurrences of requests.Response [#199](https://github.com/gdcc/pyDataverse/pull/199) by _Sebastian Höffner_
+- 08/26/24: Rework auth/api*token parameters [#201](https://github.com/gdcc/pyDataverse/pull/201) by \_Sebastian Höffner*
+- 08/26/24: doc(replace*datafile): clarify and correct parameter description [#202](https://github.com/gdcc/pyDataverse/pull/202) by \_Michael Hanke*
+- 08/26/24: Fix `jsonData` not passed correctly [#203](https://github.com/gdcc/pyDataverse/pull/203) by _Jan Range_
+- 08/26/24: Update tox.ini and pyproject.toml [#205](https://github.com/gdcc/pyDataverse/pull/205) by _Sebastian Höffner_
+- 08/26/24: Update contrib guide [#206](https://github.com/gdcc/pyDataverse/pull/206) by _Sebastian Höffner_
+- 08/26/24: Fix handling of empty metadata when uploading data files [#207](https://github.com/gdcc/pyDataverse/pull/207) by _Sebastian Höffner_
 
 ## Roadmap 🗺️
 
@@ -60,6 +69,8 @@ As we merge pull requests, we will update "new features" list above.
 We curate our work in the form of milestones for each new version to document new functionalities and fixes that have been contributed. In the following, find a list to our current milestones:
 
 - [v0.3.2](https://github.com/gdcc/pyDataverse/milestone/7)
+- [v0.3.3](https://github.com/gdcc/pyDataverse/milestone/9)
+- [v0.3.4](https://github.com/gdcc/pyDataverse/milestone/10)
 - [v0.4.0](https://github.com/gdcc/pyDataverse/milestone/8)
 
 _You can check already closed PRs and issues by clicking on the `closed` tab._
