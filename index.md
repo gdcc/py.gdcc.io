@@ -81,7 +81,8 @@ We welcome anyone to join our meetings! We meet every 3rd Wednesday at 2:00PM UT
 
 The WebEx link is <https://unistuttgart.webex.com/unistuttgart/j.php?MTID=m322473ae7c744792437ce854422e52a3>
 
-- [2025-10-15, 14:00 UTC](https://time.is/compare/1400_15_Oct_2025_in_UTC) - [Notes](https://docs.google.com/document/d/1iSMZda5HWSvsz639gB5C1nmy7Z9MpaCEiVBs9OaHSZs/edit?usp=sharing)
+- [2025-11-19, 14:00 UTC](https://time.is/compare/1400_19_Nov_2025_in_UTC) - [Notes](https://docs.google.com/document/d/1iSMZda5HWSvsz639gB5C1nmy7Z9MpaCEiVBs9OaHSZs/edit?usp=sharing)
+- [2025-10-15, 14:00 UTC](https://time.is/compare/1400_15_Oct_2025_in_UTC) - [Notes](https://docs.google.com/document/d/1iSMZda5HWSvsz639gB5C1nmy7Z9MpaCEiVBs9OaHSZs/edit?usp=sharing) [Recording](https://drive.google.com/file/d/1Rb-7cAhhB_1wPT8_0ex6ohcKIc3Xvlq5/view?usp=share_link)
 - [2025-09-24, 14:00 UTC](https://time.is/compare/1400_24_Sep_2025_in_UTC) - [Notes](https://docs.google.com/document/d/1Dj46LroQWQY4pgm4h-Hj7aRkmB-olE1DZ_KJ6fBfLjQ/edit?usp=sharing) [Recording](https://drive.google.com/file/d/1Q0Pi6XY7dnvsZTKzu6fVUZdBsuoLO1m-/view?usp=share_link)
 - [2025-08-20, 14:00 UTC](https://time.is/compare/1400_20_Aug_2025_in_UTC) - [Notes](https://docs.google.com/document/d/1yyN300Bcmtp2BvaVenbiJ4YjH2YPgMYDLjEk8Usp2UE/edit?usp=sharing) [Recording](https://drive.google.com/file/d/1LEG09m9cAGttGWJNEEIqfbiJARE0KK3g/view?usp=share_link)
 - [2025-06-18, 14:00 UTC](https://time.is/compare/1400_18_Jun_2025_in_UTC) - [Notes](https://docs.google.com/document/d/1jN8Q7d9ugwShW0CNUea7RVvRXEij3O5DYCt7RDD4mck/edit?usp=sharing) [Recording](https://drive.google.com/file/d/17ISo_HmtJydLZUj6151_yZN9HVf_QeRf/view?usp=share_link)
