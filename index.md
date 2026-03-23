@@ -81,7 +81,7 @@ We welcome anyone to join our meetings! We meet every 3rd Wednesday at 2:00PM UT
 
 The WebEx link is <https://unistuttgart.webex.com/unistuttgart/j.php?MTID=m322473ae7c744792437ce854422e52a3>
 
-- [2026-03-25, 15:00 UTC](https://time.is/compare/1500_25_Mar_2026_in_UTC) - [Notes](https://docs.google.com/document/d/1Pj5YZAiFoTURnREZG7rj0TbhWKqQDTo6jb5YQZNcRDM/edit?usp=sharing)
+- [2026-03-26, 15:00 UTC](https://time.is/compare/1500_26_Mar_2026_in_UTC) - [Notes](https://docs.google.com/document/d/1Pj5YZAiFoTURnREZG7rj0TbhWKqQDTo6jb5YQZNcRDM/edit?usp=sharing)
 - [2026-02-11, 15:00 UTC](https://time.is/compare/1500_11_Feb_2026_in_UTC) - [Notes](https://docs.google.com/document/d/1HKmMeSSr_Bg5-rVQi-M6BUuHfnBI_2w37p1iKVttSkc/edit?usp=sharing) [Recording](https://drive.google.com/file/d/1ymAlXdB2aALprp1HSo9hzn61KgJXsNle/view?usp=share_link)
 - [2026-01-21, 14:00 UTC](https://time.is/compare/1400_21_Jan_2026_in_UTC) - [Notes](https://docs.google.com/document/d/1qNVAOmiq8NvBocX_E30JH3bHTmA0qKTCXLNTqAQa1Yc/edit?usp=sharing) [Recording](https://drive.google.com/file/d/1-DfJ_J5fVRZn8fvsK7ASXC2fBjVuHvsc/view?usp=share_link)
 - ~~[2025-01-17, 14:00 UTC](https://time.is/compare/1400_21_Jan_2026_in_UTC) - Cancelled~~
